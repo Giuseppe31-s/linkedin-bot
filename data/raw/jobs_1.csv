@@ -1,0 +1,743 @@
+,id,job_title,url,date_posted,has_blurred_data,company,final_url,source_url,location,short_location,long_location,state_code,latitude,longitude,postal_code,remote,hybrid,salary_string,min_annual_salary,min_annual_salary_usd,max_annual_salary,max_annual_salary_usd,avg_annual_salary_usd,salary_currency,countries,country,cities,continents,seniority,country_codes,country_code,discovered_at,company_domain,hiring_team,reposted,date_reposted,employment_statuses,easy_apply,description,company_object,normalized_title,manager_roles,matching_phrases,matching_words
+0,475672501,Software Engineer for Training AI Data (JavaScript),https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,2025-04-10,False,G2i Inc.,https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,https://indeed.com/viewjob?jk=ec79306c1ea3cfde,Sicilia,Sicilia,Sicilia,SIC,0.0,0.0,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-10T18:20:41.490000+00:00,g2i.co,[],False,,['Full-time'],True,"### **Accepted Locations**
+
+
+We accept applicants from the US, Canada, and most countries in LATAM and Europe. We are also accepting candidates from some countries in Africa and Asia. For the complete list of accepted locations, click here. This work is 100% remote.
+
+**Loom Video**
+
+
+Our Founder/CEO, Gabe Greenberg, created an in\-depth Loom video that we highly recommend you watch! Check it out here: Loom Video
+
+**Overview**
+
+
+Join our expert annotation team to create training data for the world's most advanced AI models. No previous AI experience is necessary. You'll get your foot in the door with one of the most prominent players in the AI/LLM space today. We're primarily seeking JavaScript/React developers with 3\+ years of experience to train large AI language models, helping cutting\-edge generative AI models write better frontend code. Projects typically include discrete, highly variable problems that involve engaging with these models as they learn to code. We currently have 200\+ roles open!
+
+**What Will I Be Doing?**
+
+* Evaluating the quality of AI\-generated code, including human\-readable summaries of your rationale.
+* Building and evaluating React components, hooks, and modern JavaScript solutions.
+* Solving coding problems and writing functional and efficient JavaScript/React code.
+* Writing robust test cases to confirm code works efficiently and effectively.
+* Creating instructions to help others and reviewing code before it goes into the model.
+* Engaging in a variety of projects, from evaluating code snippets to developing full mobile applications using chatbots.
+
+**Pay Rates**
+
+
+Compensation rates vary based on location and experience and you can find them in this document. The following rates are starting points and may be subject to change. Expectations are 15\+ hours per week; however, there is no upper limit. You can work as much as you want and will be paid weekly per hour of work done on the platform.
+
+**Contract Length**
+
+
+This is a long\-term contract with no end date. We expect to have work for the next 2 years. You can end the contract at any time, but we hope you will commit to 12 months of work.
+
+**Flexible Schedules**
+
+
+Developers can set their own hours—ideal candidates will be interested in spending 40 hours a week. You will be with teams, so strong performers will adapt to the urgency of projects and stay engaged, but we are incredibly flexible on working hours. You can take a 3\-hour lunch with no problem. Instead of tracking your hours, you are paid according to time spent on the platform, calculated in the coding exercises.
+
+**Interview Process**
+
+* Apply using this Ashby form.
+* If you seem like a good fit, we'll send an async RLHF code review that will take 35 minutes and must be finished within 72 hours of us sending it.
+* You'll receive credentials to the RLHF platform. We'll then set up a group call to answer any further questions about onboarding with the company.
+* You'll perform a simulated production\-level task (RLHF task) on the platform. This will be your final interview, which will ultimately determine your employment and leveling. Successful completion of this process provides you with an opportunity to work on projects as they become available.
+
+**Tech Stack Priorities**
+
+
+The current priority for this team is frontend engineers who are well versed in JavaScript, React, and modern web development frameworks and libraries.
+
+**Required Qualifications**
+
+* 3\+ years of experience in a software engineering/software development role.
+* Strong proficiency with JavaScript/React and frontend development.
+* Complete fluency in the English language.
+* Ability to articulate complex technical concepts clearly and engagingly.
+* Excellent attention to detail and ability to maintain consistency in writing. Solid understanding of grammar, punctuation, and style guidelines.
+
+**Nice To Haves:**
+
+* Bachelor's or Master's degree in Computer Science.
+* Experience with modern JavaScript frameworks and libraries (Next.js, Vue, Angular).
+* Familiarity with frontend testing frameworks (Jest, React Testing Library, Cypress).
+* Knowledge of state management solutions (Redux, Context API, MobX).
+* Experience with TypeScript and modern frontend tooling.
+* Recognized accomplishments or contributions to the coding community or in projects.
+* Proven analytical skills with an ability to approach problems creatively.
+* Adept communication skills, especially when understanding and discussing project requirements.
+* A commitment to continuous learning and staying updated with the latest coding advancements and best practices.
+* Enthusiasm for teaching AI models and experience with technical writing!
+
+
+If you're passionate about JavaScript, React, and the future of frontend development, this is an excellent opportunity to contribute to cutting\-edge AI technology while leveraging your expertise!
+
+","{'name': 'G2i Inc.', 'domain': 'g2i.co', 'industry': 'Software Development', 'country': 'United States', 'country_code': 'US', 'employee_count': 226, 'logo': 'https://media.licdn.com/dms/image/v2/D560BAQE1LAyn2pCGDw/company-logo_400_400/company-logo_400_400/0/1700638743046/g2i_inc__logo?e=1744848000&v=beta&t=oAjJfI3aIlXAj_AY4qthU-fxBrmCmpVj2O0TH84IAJE', 'num_jobs': 687, 'num_technologies': 145, 'url': 'https://g2i.co', 'industry_id': 4, 'linkedin_url': 'https://www.linkedin.com/company/g2i-inc/', 'num_jobs_last_30_days': 112, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '7790167', 'url_source': None, 'is_recruiting_agency': False, 'id': 'fnJUjAtE5ZA3ubjo6jAvJA==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': '201-500', 'long_description': ""G2i is a hiring community connecting remote developers with world-class engineering teams. Our unique approach combines rigorous technical assessments with a solid commitment to developer health, ensuring companies get skilled developers who are supported, valued, and ready to execute from day one.\n\nOur transparent vetting process includes in-depth, performance-ranked developer profiles, recorded technical interviews, and soft-skills assessments. Whether you're working on a short-term project or burning down a backlog, G2i connects you with a community of pre-vetted developers.\n\nPlanning to hire ten or more engineers? We create a Custom Talent Pipeline, allowing for specific customizations in sourcing, assessment criteria, technical interview questions, and integration with your existing HR systems and processes.\n\nG2i partners with clients who support the developer health mission—matching developers with environments that improve their health, support recovery from burnout, and enable professional growth through restful work. \n\nIs your team overworked or understaffed? Contact us today to learn how G2i can help you.\n\nMore information about our mission and commitment to developers and clients can be found at https://g2i.co or follow us on X @g2i_co"", 'seo_description': 'G2i is a hiring community connecting remote developers with world-class engineering teams.', 'city': 'Delray Beach', 'postal_code': '33444', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['g2i.co'], 'technology_slugs': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand'], 'technology_names': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand']}",,[],[],[]
+1,475650145,Software Engineer for Training AI Data (JavaScript),https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,2025-04-10,False,G2i Inc.,https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,https://indeed.com/viewjob?jk=a2b7734e728e3ce0,Campania,Campania,Campania,CAM,0.0,0.0,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-10T18:09:40.827000+00:00,g2i.co,[],False,,['Full-time'],True,"### **Accepted Locations**
+
+
+We accept applicants from the US, Canada, and most countries in LATAM and Europe. We are also accepting candidates from some countries in Africa and Asia. For the complete list of accepted locations, click here. This work is 100% remote.
+
+**Loom Video**
+
+
+Our Founder/CEO, Gabe Greenberg, created an in\-depth Loom video that we highly recommend you watch! Check it out here: Loom Video
+
+**Overview**
+
+
+Join our expert annotation team to create training data for the world's most advanced AI models. No previous AI experience is necessary. You'll get your foot in the door with one of the most prominent players in the AI/LLM space today. We're primarily seeking JavaScript/React developers with 3\+ years of experience to train large AI language models, helping cutting\-edge generative AI models write better frontend code. Projects typically include discrete, highly variable problems that involve engaging with these models as they learn to code. We currently have 200\+ roles open!
+
+**What Will I Be Doing?**
+
+* Evaluating the quality of AI\-generated code, including human\-readable summaries of your rationale.
+* Building and evaluating React components, hooks, and modern JavaScript solutions.
+* Solving coding problems and writing functional and efficient JavaScript/React code.
+* Writing robust test cases to confirm code works efficiently and effectively.
+* Creating instructions to help others and reviewing code before it goes into the model.
+* Engaging in a variety of projects, from evaluating code snippets to developing full mobile applications using chatbots.
+
+**Pay Rates**
+
+
+Compensation rates vary based on location and experience and you can find them in this document. The following rates are starting points and may be subject to change. Expectations are 15\+ hours per week; however, there is no upper limit. You can work as much as you want and will be paid weekly per hour of work done on the platform.
+
+**Contract Length**
+
+
+This is a long\-term contract with no end date. We expect to have work for the next 2 years. You can end the contract at any time, but we hope you will commit to 12 months of work.
+
+**Flexible Schedules**
+
+
+Developers can set their own hours—ideal candidates will be interested in spending 40 hours a week. You will be with teams, so strong performers will adapt to the urgency of projects and stay engaged, but we are incredibly flexible on working hours. You can take a 3\-hour lunch with no problem. Instead of tracking your hours, you are paid according to time spent on the platform, calculated in the coding exercises.
+
+**Interview Process**
+
+* Apply using this Ashby form.
+* If you seem like a good fit, we'll send an async RLHF code review that will take 35 minutes and must be finished within 72 hours of us sending it.
+* You'll receive credentials to the RLHF platform. We'll then set up a group call to answer any further questions about onboarding with the company.
+* You'll perform a simulated production\-level task (RLHF task) on the platform. This will be your final interview, which will ultimately determine your employment and leveling. Successful completion of this process provides you with an opportunity to work on projects as they become available.
+
+**Tech Stack Priorities**
+
+
+The current priority for this team is frontend engineers who are well versed in JavaScript, React, and modern web development frameworks and libraries.
+
+**Required Qualifications**
+
+* 3\+ years of experience in a software engineering/software development role.
+* Strong proficiency with JavaScript/React and frontend development.
+* Complete fluency in the English language.
+* Ability to articulate complex technical concepts clearly and engagingly.
+* Excellent attention to detail and ability to maintain consistency in writing. Solid understanding of grammar, punctuation, and style guidelines.
+
+**Nice To Haves:**
+
+* Bachelor's or Master's degree in Computer Science.
+* Experience with modern JavaScript frameworks and libraries (Next.js, Vue, Angular).
+* Familiarity with frontend testing frameworks (Jest, React Testing Library, Cypress).
+* Knowledge of state management solutions (Redux, Context API, MobX).
+* Experience with TypeScript and modern frontend tooling.
+* Recognized accomplishments or contributions to the coding community or in projects.
+* Proven analytical skills with an ability to approach problems creatively.
+* Adept communication skills, especially when understanding and discussing project requirements.
+* A commitment to continuous learning and staying updated with the latest coding advancements and best practices.
+* Enthusiasm for teaching AI models and experience with technical writing!
+
+
+If you're passionate about JavaScript, React, and the future of frontend development, this is an excellent opportunity to contribute to cutting\-edge AI technology while leveraging your expertise!
+
+","{'name': 'G2i Inc.', 'domain': 'g2i.co', 'industry': 'Software Development', 'country': 'United States', 'country_code': 'US', 'employee_count': 226, 'logo': 'https://media.licdn.com/dms/image/v2/D560BAQE1LAyn2pCGDw/company-logo_400_400/company-logo_400_400/0/1700638743046/g2i_inc__logo?e=1744848000&v=beta&t=oAjJfI3aIlXAj_AY4qthU-fxBrmCmpVj2O0TH84IAJE', 'num_jobs': 687, 'num_technologies': 145, 'url': 'https://g2i.co', 'industry_id': 4, 'linkedin_url': 'https://www.linkedin.com/company/g2i-inc/', 'num_jobs_last_30_days': 112, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '7790167', 'url_source': None, 'is_recruiting_agency': False, 'id': 'fnJUjAtE5ZA3ubjo6jAvJA==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': '201-500', 'long_description': ""G2i is a hiring community connecting remote developers with world-class engineering teams. Our unique approach combines rigorous technical assessments with a solid commitment to developer health, ensuring companies get skilled developers who are supported, valued, and ready to execute from day one.\n\nOur transparent vetting process includes in-depth, performance-ranked developer profiles, recorded technical interviews, and soft-skills assessments. Whether you're working on a short-term project or burning down a backlog, G2i connects you with a community of pre-vetted developers.\n\nPlanning to hire ten or more engineers? We create a Custom Talent Pipeline, allowing for specific customizations in sourcing, assessment criteria, technical interview questions, and integration with your existing HR systems and processes.\n\nG2i partners with clients who support the developer health mission—matching developers with environments that improve their health, support recovery from burnout, and enable professional growth through restful work. \n\nIs your team overworked or understaffed? Contact us today to learn how G2i can help you.\n\nMore information about our mission and commitment to developers and clients can be found at https://g2i.co or follow us on X @g2i_co"", 'seo_description': 'G2i is a hiring community connecting remote developers with world-class engineering teams.', 'city': 'Delray Beach', 'postal_code': '33444', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['g2i.co'], 'technology_slugs': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand'], 'technology_names': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand']}",,[],[],[]
+2,475650655,Software Engineer for Training AI Data (JavaScript),https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,2025-04-10,False,G2i Inc.,https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,https://indeed.com/viewjob?jk=8523f12ed8c61ad4,Lombardia,Lombardia,Lombardia,LOM,0.0,0.0,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-10T18:09:55.921000+00:00,g2i.co,[],False,,['Full-time'],True,"### **Accepted Locations**
+
+
+We accept applicants from the US, Canada, and most countries in LATAM and Europe. We are also accepting candidates from some countries in Africa and Asia. For the complete list of accepted locations, click here. This work is 100% remote.
+
+**Loom Video**
+
+
+Our Founder/CEO, Gabe Greenberg, created an in\-depth Loom video that we highly recommend you watch! Check it out here: Loom Video
+
+**Overview**
+
+
+Join our expert annotation team to create training data for the world's most advanced AI models. No previous AI experience is necessary. You'll get your foot in the door with one of the most prominent players in the AI/LLM space today. We're primarily seeking JavaScript/React developers with 3\+ years of experience to train large AI language models, helping cutting\-edge generative AI models write better frontend code. Projects typically include discrete, highly variable problems that involve engaging with these models as they learn to code. We currently have 200\+ roles open!
+
+**What Will I Be Doing?**
+
+* Evaluating the quality of AI\-generated code, including human\-readable summaries of your rationale.
+* Building and evaluating React components, hooks, and modern JavaScript solutions.
+* Solving coding problems and writing functional and efficient JavaScript/React code.
+* Writing robust test cases to confirm code works efficiently and effectively.
+* Creating instructions to help others and reviewing code before it goes into the model.
+* Engaging in a variety of projects, from evaluating code snippets to developing full mobile applications using chatbots.
+
+**Pay Rates**
+
+
+Compensation rates vary based on location and experience and you can find them in this document. The following rates are starting points and may be subject to change. Expectations are 15\+ hours per week; however, there is no upper limit. You can work as much as you want and will be paid weekly per hour of work done on the platform.
+
+**Contract Length**
+
+
+This is a long\-term contract with no end date. We expect to have work for the next 2 years. You can end the contract at any time, but we hope you will commit to 12 months of work.
+
+**Flexible Schedules**
+
+
+Developers can set their own hours—ideal candidates will be interested in spending 40 hours a week. You will be with teams, so strong performers will adapt to the urgency of projects and stay engaged, but we are incredibly flexible on working hours. You can take a 3\-hour lunch with no problem. Instead of tracking your hours, you are paid according to time spent on the platform, calculated in the coding exercises.
+
+**Interview Process**
+
+* Apply using this Ashby form.
+* If you seem like a good fit, we'll send an async RLHF code review that will take 35 minutes and must be finished within 72 hours of us sending it.
+* You'll receive credentials to the RLHF platform. We'll then set up a group call to answer any further questions about onboarding with the company.
+* You'll perform a simulated production\-level task (RLHF task) on the platform. This will be your final interview, which will ultimately determine your employment and leveling. Successful completion of this process provides you with an opportunity to work on projects as they become available.
+
+**Tech Stack Priorities**
+
+
+The current priority for this team is frontend engineers who are well versed in JavaScript, React, and modern web development frameworks and libraries.
+
+**Required Qualifications**
+
+* 3\+ years of experience in a software engineering/software development role.
+* Strong proficiency with JavaScript/React and frontend development.
+* Complete fluency in the English language.
+* Ability to articulate complex technical concepts clearly and engagingly.
+* Excellent attention to detail and ability to maintain consistency in writing. Solid understanding of grammar, punctuation, and style guidelines.
+
+**Nice To Haves:**
+
+* Bachelor's or Master's degree in Computer Science.
+* Experience with modern JavaScript frameworks and libraries (Next.js, Vue, Angular).
+* Familiarity with frontend testing frameworks (Jest, React Testing Library, Cypress).
+* Knowledge of state management solutions (Redux, Context API, MobX).
+* Experience with TypeScript and modern frontend tooling.
+* Recognized accomplishments or contributions to the coding community or in projects.
+* Proven analytical skills with an ability to approach problems creatively.
+* Adept communication skills, especially when understanding and discussing project requirements.
+* A commitment to continuous learning and staying updated with the latest coding advancements and best practices.
+* Enthusiasm for teaching AI models and experience with technical writing!
+
+
+If you're passionate about JavaScript, React, and the future of frontend development, this is an excellent opportunity to contribute to cutting\-edge AI technology while leveraging your expertise!
+
+","{'name': 'G2i Inc.', 'domain': 'g2i.co', 'industry': 'Software Development', 'country': 'United States', 'country_code': 'US', 'employee_count': 226, 'logo': 'https://media.licdn.com/dms/image/v2/D560BAQE1LAyn2pCGDw/company-logo_400_400/company-logo_400_400/0/1700638743046/g2i_inc__logo?e=1744848000&v=beta&t=oAjJfI3aIlXAj_AY4qthU-fxBrmCmpVj2O0TH84IAJE', 'num_jobs': 687, 'num_technologies': 145, 'url': 'https://g2i.co', 'industry_id': 4, 'linkedin_url': 'https://www.linkedin.com/company/g2i-inc/', 'num_jobs_last_30_days': 112, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '7790167', 'url_source': None, 'is_recruiting_agency': False, 'id': 'fnJUjAtE5ZA3ubjo6jAvJA==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': '201-500', 'long_description': ""G2i is a hiring community connecting remote developers with world-class engineering teams. Our unique approach combines rigorous technical assessments with a solid commitment to developer health, ensuring companies get skilled developers who are supported, valued, and ready to execute from day one.\n\nOur transparent vetting process includes in-depth, performance-ranked developer profiles, recorded technical interviews, and soft-skills assessments. Whether you're working on a short-term project or burning down a backlog, G2i connects you with a community of pre-vetted developers.\n\nPlanning to hire ten or more engineers? We create a Custom Talent Pipeline, allowing for specific customizations in sourcing, assessment criteria, technical interview questions, and integration with your existing HR systems and processes.\n\nG2i partners with clients who support the developer health mission—matching developers with environments that improve their health, support recovery from burnout, and enable professional growth through restful work. \n\nIs your team overworked or understaffed? Contact us today to learn how G2i can help you.\n\nMore information about our mission and commitment to developers and clients can be found at https://g2i.co or follow us on X @g2i_co"", 'seo_description': 'G2i is a hiring community connecting remote developers with world-class engineering teams.', 'city': 'Delray Beach', 'postal_code': '33444', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['g2i.co'], 'technology_slugs': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand'], 'technology_names': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand']}",,[],[],[]
+3,475694091,Software Engineer for Training AI Data (JavaScript),https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,2025-04-10,False,G2i Inc.,https://jobs.ashbyhq.com/g2i/0e2f44e9-407d-4837-aa5b-35fcb94dfbef?utm_source=goZ7bDb7a6,https://indeed.com/viewjob?jk=832b10bcbef4ac0e,Lazio,Lazio,Lazio,LAZ,0.0,0.0,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-10T18:31:30.515000+00:00,g2i.co,[],False,,['Full-time'],True,"### **Accepted Locations**
+
+
+We accept applicants from the US, Canada, and most countries in LATAM and Europe. We are also accepting candidates from some countries in Africa and Asia. For the complete list of accepted locations, click here. This work is 100% remote.
+
+**Loom Video**
+
+
+Our Founder/CEO, Gabe Greenberg, created an in\-depth Loom video that we highly recommend you watch! Check it out here: Loom Video
+
+**Overview**
+
+
+Join our expert annotation team to create training data for the world's most advanced AI models. No previous AI experience is necessary. You'll get your foot in the door with one of the most prominent players in the AI/LLM space today. We're primarily seeking JavaScript/React developers with 3\+ years of experience to train large AI language models, helping cutting\-edge generative AI models write better frontend code. Projects typically include discrete, highly variable problems that involve engaging with these models as they learn to code. We currently have 200\+ roles open!
+
+**What Will I Be Doing?**
+
+* Evaluating the quality of AI\-generated code, including human\-readable summaries of your rationale.
+* Building and evaluating React components, hooks, and modern JavaScript solutions.
+* Solving coding problems and writing functional and efficient JavaScript/React code.
+* Writing robust test cases to confirm code works efficiently and effectively.
+* Creating instructions to help others and reviewing code before it goes into the model.
+* Engaging in a variety of projects, from evaluating code snippets to developing full mobile applications using chatbots.
+
+**Pay Rates**
+
+
+Compensation rates vary based on location and experience and you can find them in this document. The following rates are starting points and may be subject to change. Expectations are 15\+ hours per week; however, there is no upper limit. You can work as much as you want and will be paid weekly per hour of work done on the platform.
+
+**Contract Length**
+
+
+This is a long\-term contract with no end date. We expect to have work for the next 2 years. You can end the contract at any time, but we hope you will commit to 12 months of work.
+
+**Flexible Schedules**
+
+
+Developers can set their own hours—ideal candidates will be interested in spending 40 hours a week. You will be with teams, so strong performers will adapt to the urgency of projects and stay engaged, but we are incredibly flexible on working hours. You can take a 3\-hour lunch with no problem. Instead of tracking your hours, you are paid according to time spent on the platform, calculated in the coding exercises.
+
+**Interview Process**
+
+* Apply using this Ashby form.
+* If you seem like a good fit, we'll send an async RLHF code review that will take 35 minutes and must be finished within 72 hours of us sending it.
+* You'll receive credentials to the RLHF platform. We'll then set up a group call to answer any further questions about onboarding with the company.
+* You'll perform a simulated production\-level task (RLHF task) on the platform. This will be your final interview, which will ultimately determine your employment and leveling. Successful completion of this process provides you with an opportunity to work on projects as they become available.
+
+**Tech Stack Priorities**
+
+
+The current priority for this team is frontend engineers who are well versed in JavaScript, React, and modern web development frameworks and libraries.
+
+**Required Qualifications**
+
+* 3\+ years of experience in a software engineering/software development role.
+* Strong proficiency with JavaScript/React and frontend development.
+* Complete fluency in the English language.
+* Ability to articulate complex technical concepts clearly and engagingly.
+* Excellent attention to detail and ability to maintain consistency in writing. Solid understanding of grammar, punctuation, and style guidelines.
+
+**Nice To Haves:**
+
+* Bachelor's or Master's degree in Computer Science.
+* Experience with modern JavaScript frameworks and libraries (Next.js, Vue, Angular).
+* Familiarity with frontend testing frameworks (Jest, React Testing Library, Cypress).
+* Knowledge of state management solutions (Redux, Context API, MobX).
+* Experience with TypeScript and modern frontend tooling.
+* Recognized accomplishments or contributions to the coding community or in projects.
+* Proven analytical skills with an ability to approach problems creatively.
+* Adept communication skills, especially when understanding and discussing project requirements.
+* A commitment to continuous learning and staying updated with the latest coding advancements and best practices.
+* Enthusiasm for teaching AI models and experience with technical writing!
+
+
+If you're passionate about JavaScript, React, and the future of frontend development, this is an excellent opportunity to contribute to cutting\-edge AI technology while leveraging your expertise!
+
+","{'name': 'G2i Inc.', 'domain': 'g2i.co', 'industry': 'Software Development', 'country': 'United States', 'country_code': 'US', 'employee_count': 226, 'logo': 'https://media.licdn.com/dms/image/v2/D560BAQE1LAyn2pCGDw/company-logo_400_400/company-logo_400_400/0/1700638743046/g2i_inc__logo?e=1744848000&v=beta&t=oAjJfI3aIlXAj_AY4qthU-fxBrmCmpVj2O0TH84IAJE', 'num_jobs': 687, 'num_technologies': 145, 'url': 'https://g2i.co', 'industry_id': 4, 'linkedin_url': 'https://www.linkedin.com/company/g2i-inc/', 'num_jobs_last_30_days': 112, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '7790167', 'url_source': None, 'is_recruiting_agency': False, 'id': 'fnJUjAtE5ZA3ubjo6jAvJA==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': '201-500', 'long_description': ""G2i is a hiring community connecting remote developers with world-class engineering teams. Our unique approach combines rigorous technical assessments with a solid commitment to developer health, ensuring companies get skilled developers who are supported, valued, and ready to execute from day one.\n\nOur transparent vetting process includes in-depth, performance-ranked developer profiles, recorded technical interviews, and soft-skills assessments. Whether you're working on a short-term project or burning down a backlog, G2i connects you with a community of pre-vetted developers.\n\nPlanning to hire ten or more engineers? We create a Custom Talent Pipeline, allowing for specific customizations in sourcing, assessment criteria, technical interview questions, and integration with your existing HR systems and processes.\n\nG2i partners with clients who support the developer health mission—matching developers with environments that improve their health, support recovery from burnout, and enable professional growth through restful work. \n\nIs your team overworked or understaffed? Contact us today to learn how G2i can help you.\n\nMore information about our mission and commitment to developers and clients can be found at https://g2i.co or follow us on X @g2i_co"", 'seo_description': 'G2i is a hiring community connecting remote developers with world-class engineering teams.', 'city': 'Delray Beach', 'postal_code': '33444', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['g2i.co'], 'technology_slugs': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand'], 'technology_names': ['adobe-illustrator', 'adobe-photoshop', 'airflow', 'amazon-athena', 'amazon-aurora', 'amazon-comprehend', 'amazon-ecs', 'amazon-kinesis', 'amazon-rds-for-mysql', 'amazon-rekognition', 'amazon-s3', 'amazon-sagemaker', 'amazon-textract', 'amazon-web-services', 'android', 'android-studio', 'ansible', 'apache-airflow', 'apache-hadoop', 'appium', 'apple-pay', 'argo-cd', 'ashby', 'atandt', 'attribution', 'aws-amplify', 'aws-cloudformation', 'aws-codebuild', 'aws-codedeploy', 'aws-codepipeline', 'aws-glue', 'aws-lambda', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-monitor', 'babel', 'bard-ai', 'bedrock', 'blockchain-com', 'box', 'brand-alignment', 'c-lang', 'c-sharp', 'checkstyle', 'chef', 'cmake', 'cockroachdb', 'coder', 'coinbase', 'component', 'compose', 'cplusplus', 'css-3', 'cypress', 'dart', 'databricks', 'dependabot', 'django', 'docker', 'docker-compose', 'docker-for-aws', 'effective-software', 'elasticsearch', 'elearning-lms', 'enorm', 'eslint', 'ethereum', 'expo', 'figma', 'flutter', 'github', 'github-actions', 'gitlab', 'gitlab-ci', 'golang', 'google-cloud-platform', 'google-vpc', 'gradle', 'grafana', 'graphql', 'guardrails', 'hadoop', 'hugging-face', 'ios', 'java', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'jobber', 'json', 'junit', 'kafka', 'kafka-streams', 'karriere', 'keycloak', 'klarna', 'koding', 'kotlin', 'kubeflow', 'kubernetes', 'launchdarkly', 'lever', 'looker', 'loom', 'material-ui', 'matlab', 'measured-success', 'meta-llama', 'microsoft-access', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-excel', 'microsoft-forefront', 'microsoft-graph', 'microsoft-outlook', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-typescript', 'microsoft-visio', 'ml-flow', 'mlflow', 'mobx', 'mongodb', 'mysql', 'next-js', 'ning', 'nodejs', 'numpy', 'oauth', 'objective-c', 'openfin', 'oracle', 'pandas', 'payment-rails', 'perl', 'php', 'playwright', 'postgresql', 'power-bi', 'powershell', 'prettier', 'processing-js', 'provide-support', 'pulumi', 'pyspark', 'python', 'pytorch', 'q2', 'rails', 'react', 'react-native', 'react-testing-library', 'redis', 'reduxjs', 'revue', 'rkt', 'rsm', 'ruby', 'rust', 'salesforce', 'salesforce-marketing-cloud', 'sap', 'sass', 'scala', 'scikit-learn', 'selenium', 'sentry', 'serverless', 'simul', 'sinatra', 'spark', 'spark-framework', 'spring-boot', 'storybook', 'streamline', 'swift', 'swiftui', 'tableau', 'tailwind', 'tailwind-css', 'tensorflow', 'terraform', 'testcontainers', 'toolkit', 'transformers', 'typescript', 'uikit', 'vectorizedio-redpanda', 'venmo', 'verifi', 'vite', 'webpack', 'xcode', 'zustand']}",,[],[],[]
+4,471902650,"DATA SCIENTIST - AI, Machine Learning & Automation",https://joblink.allibo.com/ats2/job-offer.aspx?DM=2025&ID=115642&LN=IT&SG=3&FT=10&MD=1,2025-04-09,False,Technesy Holding SpA,https://joblink.allibo.com/ats2/job-offer.aspx?DM=2025&ID=115642&LN=IT&SG=3&FT=10&MD=1,https://indeed.com/viewjob?jk=5e92534a7a9ceb3b,"Provincia di Milano, Lombardia","Provincia di Milano, Lombardia","Provincia di Milano, Lombardia",LOM,45.5,9.5,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-09T13:51:14.815000+00:00,,[],False,,[],True,"In INGO ridefiniamo il futuro della Customer Experience con un approccio Next Gen innovativo e fuori dagli schemi.
+  
+  
+
+Progettiamo e gestiamo processi di relazione a livello globale per supportare il business delle aziende che si affidano a noi: per oltre due decenni, 1\.298 imprese di ogni dimensione ci hanno scelti per sviluppare processi personalizzati di gestione della Customer Base.
+  
+  
+
+INGO Società Benefit è parte del gruppo multicompany Technesy Holding S.p.a.
+  
+  
+
+25 anni di esperienza, 4 sedi in Italia, 70 partner nel mondo, circa 1000 dipendenti, un hub tecnologico di ricerca e sviluppo e più di 450 progetti realizzati ogni anno.
+  
+  
+
+**DATA SCIENTIST \- AI, Machine Learning \& Automation:**  
+
+Sei un mago dei dati? Ti entusiasma l'idea di addestrare modelli di AI come fossero Pokémon? Allora, abbiamo la missione perfetta per te! ✨
+  
+  
+
+Perché scegliere INGO?
+  
+  
+
+**Perché abbiamo bisogno di cervelli brillanti:** la tua visione innovativa e fuori dagli schemi potrebbe essere la chiave per rivoluzionare il nostro modo di lavorare!
+  
+  
+
+**Perché facciamo del bene alla biosfera:** ci piace innovare con un impatto positivo.
+  
+  
+
+**Perché la flessibilità è il nostro mantra:** smart working, uffici innovativi e un weekend che dura più di due giorni (sì, hai letto bene!).
+  
+  
+
+**Perché siamo ovunque:** con diverse sedi in Italia, avrai la possibilità di viaggiare e scoprire tutte le nostre realtà.
+  
+  
+
+**Perché qui l’innovazione è di casa:** lavoriamo in team e collaboriamo per creare soluzioni che fanno la differenza.
+  
+  
+
+Cosa farai? ‍
+  
+  
+
+Ti unirai al nostro team Automation e lavorerai fianco a fianco con altri data scientist e sviluppatori per:
+  
+Analizzare e interpretare dati per scovare nuove opportunità di automazione aziendale.
+  
+Sviluppare modelli predittivi e classificatori utilizzando tecniche avanzate di machine learning e AI.
+  
+  
+
+Estrarre insight e pattern nascosti all’interno dei dati per migliorare i nostri servizi.
+  
+  
+
+Vuoi vedere cosa abbiamo già realizzato? Dai un’occhiata ai nostri progetti:
+  
+Autoguidovie
+  
+AI Reception in ambito healthcare
+  
+Virgin Active
+  
+  
+
+Cosa cerchiamo in te?
+  
+  
+
+✅ Laurea in Statistica, Informatica, Ingegneria o un campo simile.
+  
+✅ Esperienza nella programmazione, preferibilmente in Python.
+  
+✅ Familiarità con tecniche di machine learning e analisi dati.
+  
+✅ Conoscenza di metodologie statistiche avanzate.
+  
+✅ Inglese B2 (perché l’AI non parla solo italiano!).
+  
+✅ Ottime capacità comunicative e di lavoro in team.
+  
+  
+
+**Nice to have:** esperienza con automazione di processi aziendali.
+  
+  
+
+Dove lavorerai?
+  
+  
+
+La nostra sede è a Paderno Dugnano (MI), Via I Maggio 13, ma adottiamo una modalità ibrida tra ufficio e smart working.
+  
+  
+
+Se pensi di avere la stoffa giusta e credi che l'innovazione, il rispetto e l'autenticità siano la chiave del successo... allora TI VOGLIAMO NEL TEAM!
+  
+  
+
+L'annuncio è rivolto a candidati di entrambi i sessi ai sensi dell'Art. 27 del D.Lgs. 198/2006\.
+  
+  
+
+Candidati ora!","{'name': 'Technesy Holding SpA', 'domain': None, 'industry': None, 'country': None, 'country_code': None, 'employee_count': None, 'logo': None, 'num_jobs': 55, 'num_technologies': 76, 'url': None, 'industry_id': None, 'linkedin_url': None, 'num_jobs_last_30_days': 8, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': None, 'url_source': None, 'is_recruiting_agency': False, 'id': '2/+ieW/ucAd124sF1G8JPUAgy34dmMdGmGuN0+UMcpA=', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': None, 'long_description': None, 'seo_description': None, 'city': None, 'postal_code': None, 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': [], 'technology_slugs': ['active-directory', 'affine', 'amazon-web-services', 'asterisk', 'avere', 'bitbucket', 'centro', 'css-3', 'cypress', 'dall-e', 'devi', 'docker', 'elearning-lms', 'entrata', 'es6', 'flutter', 'globale', 'html5', 'hubspot', 'hubspot-crm', 'informatica', 'ingo', 'ios', 'jasmine', 'java', 'javascript', 'jenkins', 'jira', 'karma-runner', 'linkedin-sales-navigator', 'mac-os-x', 'mana-workspace', 'material-design', 'microsoft-active-directory', 'microsoft-customer-experience-management', 'microsoft-typescript', 'mode', 'modo', 'mongodb', 'mysql', 'nagios', 'nestjs', 'nodejs', 'nutanix', 'oracle', 'php', 'postgresql', 'postman', 'presidio', 'presto', 'primo', 'profilo', 'python', 'redis', 'rxjs', 'sales-navigator', 'salesforce', 'salesloft', 'sass', 'scala', 'statistica', 'tailwind', 'tailwind-css', 'typescript', 'udemy', 'udemy-for-business-lms', 'webrtc', 'windows', 'xcally', 'zendesk'], 'technology_names': ['active-directory', 'affine', 'amazon-web-services', 'asterisk', 'avere', 'bitbucket', 'centro', 'css-3', 'cypress', 'dall-e', 'devi', 'docker', 'elearning-lms', 'entrata', 'es6', 'flutter', 'globale', 'html5', 'hubspot', 'hubspot-crm', 'informatica', 'ingo', 'ios', 'jasmine', 'java', 'javascript', 'jenkins', 'jira', 'karma-runner', 'linkedin-sales-navigator', 'mac-os-x', 'mana-workspace', 'material-design', 'microsoft-active-directory', 'microsoft-customer-experience-management', 'microsoft-typescript', 'mode', 'modo', 'mongodb', 'mysql', 'nagios', 'nestjs', 'nodejs', 'nutanix', 'oracle', 'php', 'postgresql', 'postman', 'presidio', 'presto', 'primo', 'profilo', 'python', 'redis', 'rxjs', 'sales-navigator', 'salesforce', 'salesloft', 'sass', 'scala', 'statistica', 'tailwind', 'tailwind-css', 'typescript', 'udemy', 'udemy-for-business-lms', 'webrtc', 'windows', 'xcally', 'zendesk']}",,[],[],[]
+5,472563692,AI Engineer,https://mcengineering.intervieweb.it/annunci.php?l=ai-engineer-127594&lang=it&d=indeed,2025-04-09,False,MC ENGINEERING,https://mcengineering.intervieweb.it/annunci.php?l=ai-engineer-127594&lang=it&d=indeed,https://indeed.com/viewjob?jk=c3a018f7db7b12ff,Milano,"Milano, Lombardia",20100 Milano,LOM,45.4612,9.1878,20100,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-04-09T18:42:22.213000+00:00,mc-pack.com,[],False,,['Full-time'],True,"M.C. Engineering è una società di consulenza specializzata in Information Technology nata agli inizi degli anni Duemila. Con 3 sedi sul territorio nazionale \-Torino, Milano, Roma\- siamo un partner strategico ad alto contenuto tecnico.
+
+
+Approccio umanocentrico, competenza e innovazione tecnologica sono gli elementi grazie ai quali guardiamo ad obiettivi ambiziosi, consapevoli di poterli raggiungere.
+
+
+Desideri sperimentarti in una realtà dinamica e in crescita? **Unisciti a noi!**
+
+  
+
+  
+
+**Posizione:**
+--------------
+
+### **AI Engineer**
+
+**Requisiti:**
+--------------
+
+  
+
+* Diploma tecnico e/o laurea;
+* Gradita esperienza pregressa nell'implementazione di pratiche RAG o nel Chatbot Developement;
+* Buona conoscenza di Python;
+* Buona conoscenza di Google Gemini;
+* Buona conoscenza di Vertex AI;
+* Buona conoscenza dei concetti di AI Generativa e dei principali tool di Deep Learning, quali TensorFlow \& PyTorch;
+* Conoscenza di Git, GitHub \& Bitbucket;
+* Buona conoscenza della lingua inglese.
+
+  
+
+L'attività sarà svolta in modalità Full Remote.
+
+**Altre informazioni:**
+-----------------------
+
+  
+
+Completano il profilo un'elevata attitudine al lavoro in team, doti di precisione, flessibilità mentale e capacità proattiva nella gestione delle problematiche professionali.
+
+
+Si offre inserimento in organico con inquadramento commisurato all'esperienza professionale pregressa e retribuzione in linea con le reali capacità del candidato.
+
+
+Il presente annuncio è rivolto ad entrambi i sessi, ai sensi delle leggi 903/77 e 125/91, e a persone di tutte le età e tutte le nazionalità, ai sensi dei DLgs 215/03 e 216/03\.
+
+","{'name': 'MC ENGINEERING', 'domain': 'mc-pack.com', 'industry': 'Architecture and Planning', 'country': None, 'country_code': None, 'employee_count': None, 'logo': 'https://logo.clearbit.com/mc-pack.com', 'num_jobs': 571, 'num_technologies': 312, 'url': 'https://mc-pack.com', 'industry_id': 50, 'linkedin_url': None, 'num_jobs_last_30_days': 65, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': None, 'url_source': None, 'is_recruiting_agency': False, 'id': 'kSk5nqm1Uwp8By8ILKXYyw==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': None, 'long_description': 'Fabricación de maquinaria industrial. ', 'seo_description': None, 'city': None, 'postal_code': None, 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['mc-pack.com'], 'technology_slugs': ['active-directory', 'adobe-analytics', 'airflow', 'amazon-api-gateway', 'amazon-aurora', 'amazon-cloudwatch', 'amazon-dynamodb', 'amazon-ec2', 'amazon-ecr', 'amazon-ecs', 'amazon-eks', 'amazon-eventbridge', 'amazon-iot', 'amazon-kinesis', 'amazon-pinpoint', 'amazon-redshift', 'amazon-s3', 'amazon-web-services', 'android', 'android-os', 'android-studio', 'angular-2', 'angular-cli', 'angularjs', 'ansible', 'apache-airflow', 'apache-camel', 'apache-hadoop', 'apache-maven', 'apache-netbeans', 'appian', 'argo-cd', 'asp-net', 'aws-command-line-interface', 'aws-database-migration-service', 'aws-datasync', 'aws-glue', 'aws-iam', 'aws-iot', 'aws-iot-core', 'aws-lambda', 'aws-multi-factor-authentication', 'aws-single-sign-on', 'azure-active-directory', 'azure-data-factory', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-stack', 'azure-synapse', 'babel', 'bard-ai', 'bitbucket', 'blender', 'blueprint', 'bootstrap', 'c-sharp', 'ca-7', 'centro', 'checkmk', 'chef', 'cisco-identity-services-engine', 'cisco-ise', 'cloudflare', 'cockpit', 'cognos', 'common-lisp', 'component', 'confluence', 'confluent', 'contenido', 'cplusplus', 'crashlytics', 'cucumber', 'cypress', 'dall-e', 'dart', 'databricks', 'datadog', 'datasphere', 'debian', 'delta-lake', 'django', 'docker', 'domino', 'dot-net', 'drupal', 'dynamics-crm', 'dynatrace', 'eclipse', 'elasticsearch', 'elearning-lms', 'elevato', 'elk', 'fastapi', 'figma', 'firebase', 'flask', 'flutter', 'fortinet-security', 'freeradius', 'gemini', 'github', 'gitlab', 'gitlab-ci', 'go-cd', 'golang', 'google-analytics', 'google-bigquery', 'google-cloud-platform', 'google-firebase', 'gradle', 'grafana', 'graphql', 'gravit', 'groovy', 'grunt', 'gwt', 'hadoop', 'hazelcast', 'helm', 'hibernate', 'html5', 'ibm-spectrum-protect', 'icinga', 'identity-services', 'influxdb', 'informatica', 'informatica-cloud', 'informatica-cloud-data-integration', 'informatica-powercenter', 'ionic', 'ios', 'istio', 'j2ee', 'jasmine', 'java', 'java-8', 'javascript', 'jboss', 'jcl', 'jenkins', 'jest', 'jira', 'jooq', 'jquery', 'json', 'junit', 'kafka', 'keras', 'kibana', 'kotlin', 'kubernetes', 'kubevirt', 'kustomize', 'lightning-web-components', 'liquid', 'mac-os', 'macos', 'markdown', 'mendix', 'meta-llama', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-azure-synapse', 'microsoft-dynamics-crm', 'microsoft-entra-id', 'microsoft-excel', 'microsoft-intune', 'microsoft-office-365', 'microsoft-power-platform', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-system-center', 'microsoft-typescript', 'microsoft-visual-studio', 'microsoft-windows-server', 'microstrategy', 'miro', 'mockito', 'mockk', 'mode', 'modo', 'modulo', 'mongodb', 'mqtt', 'mysql', 'nagios', 'nats', 'nestjs', 'netapp', 'next-js', 'nis', 'nodejs', 'normative', 'oauth2', 'objective-c', 'openstack', 'oracle', 'oracle-database', 'oracle-fusion', 'oracle-fusion-middleware', 'oracle-label-security', 'oracle-pl-sql', 'oracle-service-bus', 'oracle-soa', 'oracle-sql-developer', 'oracle-zfs', 'orchestrator', 'pandas', 'perl', 'php', 'plantuml', 'postgresql', 'power-bi', 'power-dns', 'powerdns', 'powershell', 'primeng', 'processing-js', 'profilo', 'prometheus', 'prtg', 'ptc-windchill', 'pure-storage', 'python', 'pytorch', 'qlik', 'qlik-sense', 'quarkus', 'rabbitmq', 'rancher', 'react', 'react-native', 'red-hat', 'red-hat-enterprise-linux', 'red-hat-openshift', 'red-hat-satellite', 'redis', 'reduxjs', 'retrofit', 'ruby', 'rundeck', 'rust', 'rxjava', 'rxjs', 's3-lambda', 'salesforce', 'sap', 'sap-grc', 'sap-hcm', 'scala', 'scikit-learn', 'selenium', 'sequel', 'serverless', 'servicenow', 'servicenow-reporting', 'shopify', 'siemens-teamcenter', 'soap-ui', 'solidworks', 'sonarqube', 'spark', 'splunk', 'spock', 'spring', 'spring-boot', 'spring-security', 'sqlite', 'sso-buzzfeed', 'suse', 'swift', 'swiftui', 'tableau', 'tableau-server', 'talend', 'tensorflow', 'terraform', 'testlink', 'tines', 'typescript', 'ubuntu', 'uikit', 'unity-3d', 'varnish', 'varnish-cache', 'veeam', 'vertex', 'visual-basic', 'visual-studio', 'visual-studio-code', 'vmware-vsphere', 'vue-js', 'web-components', 'webpack', 'websphere', 'whatsapp', 'wildfly', 'window-server', 'windows', 'windows-10', 'wireshark', 'xamarin', 'xcode', 'xml-format', 'yaml', 'yocto-project', 'zabbix', 'zephyr', 'zeplin'], 'technology_names': ['active-directory', 'adobe-analytics', 'airflow', 'amazon-api-gateway', 'amazon-aurora', 'amazon-cloudwatch', 'amazon-dynamodb', 'amazon-ec2', 'amazon-ecr', 'amazon-ecs', 'amazon-eks', 'amazon-eventbridge', 'amazon-iot', 'amazon-kinesis', 'amazon-pinpoint', 'amazon-redshift', 'amazon-s3', 'amazon-web-services', 'android', 'android-os', 'android-studio', 'angular-2', 'angular-cli', 'angularjs', 'ansible', 'apache-airflow', 'apache-camel', 'apache-hadoop', 'apache-maven', 'apache-netbeans', 'appian', 'argo-cd', 'asp-net', 'aws-command-line-interface', 'aws-database-migration-service', 'aws-datasync', 'aws-glue', 'aws-iam', 'aws-iot', 'aws-iot-core', 'aws-lambda', 'aws-multi-factor-authentication', 'aws-single-sign-on', 'azure-active-directory', 'azure-data-factory', 'azure-databricks', 'azure-devops', 'azure-functions', 'azure-stack', 'azure-synapse', 'babel', 'bard-ai', 'bitbucket', 'blender', 'blueprint', 'bootstrap', 'c-sharp', 'ca-7', 'centro', 'checkmk', 'chef', 'cisco-identity-services-engine', 'cisco-ise', 'cloudflare', 'cockpit', 'cognos', 'common-lisp', 'component', 'confluence', 'confluent', 'contenido', 'cplusplus', 'crashlytics', 'cucumber', 'cypress', 'dall-e', 'dart', 'databricks', 'datadog', 'datasphere', 'debian', 'delta-lake', 'django', 'docker', 'domino', 'dot-net', 'drupal', 'dynamics-crm', 'dynatrace', 'eclipse', 'elasticsearch', 'elearning-lms', 'elevato', 'elk', 'fastapi', 'figma', 'firebase', 'flask', 'flutter', 'fortinet-security', 'freeradius', 'gemini', 'github', 'gitlab', 'gitlab-ci', 'go-cd', 'golang', 'google-analytics', 'google-bigquery', 'google-cloud-platform', 'google-firebase', 'gradle', 'grafana', 'graphql', 'gravit', 'groovy', 'grunt', 'gwt', 'hadoop', 'hazelcast', 'helm', 'hibernate', 'html5', 'ibm-spectrum-protect', 'icinga', 'identity-services', 'influxdb', 'informatica', 'informatica-cloud', 'informatica-cloud-data-integration', 'informatica-powercenter', 'ionic', 'ios', 'istio', 'j2ee', 'jasmine', 'java', 'java-8', 'javascript', 'jboss', 'jcl', 'jenkins', 'jest', 'jira', 'jooq', 'jquery', 'json', 'junit', 'kafka', 'keras', 'kibana', 'kotlin', 'kubernetes', 'kubevirt', 'kustomize', 'lightning-web-components', 'liquid', 'mac-os', 'macos', 'markdown', 'mendix', 'meta-llama', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-azure-synapse', 'microsoft-dynamics-crm', 'microsoft-entra-id', 'microsoft-excel', 'microsoft-intune', 'microsoft-office-365', 'microsoft-power-platform', 'microsoft-powerpoint', 'microsoft-project', 'microsoft-sharepoint', 'microsoft-system-center', 'microsoft-typescript', 'microsoft-visual-studio', 'microsoft-windows-server', 'microstrategy', 'miro', 'mockito', 'mockk', 'mode', 'modo', 'modulo', 'mongodb', 'mqtt', 'mysql', 'nagios', 'nats', 'nestjs', 'netapp', 'next-js', 'nis', 'nodejs', 'normative', 'oauth2', 'objective-c', 'openstack', 'oracle', 'oracle-database', 'oracle-fusion', 'oracle-fusion-middleware', 'oracle-label-security', 'oracle-pl-sql', 'oracle-service-bus', 'oracle-soa', 'oracle-sql-developer', 'oracle-zfs', 'orchestrator', 'pandas', 'perl', 'php', 'plantuml', 'postgresql', 'power-bi', 'power-dns', 'powerdns', 'powershell', 'primeng', 'processing-js', 'profilo', 'prometheus', 'prtg', 'ptc-windchill', 'pure-storage', 'python', 'pytorch', 'qlik', 'qlik-sense', 'quarkus', 'rabbitmq', 'rancher', 'react', 'react-native', 'red-hat', 'red-hat-enterprise-linux', 'red-hat-openshift', 'red-hat-satellite', 'redis', 'reduxjs', 'retrofit', 'ruby', 'rundeck', 'rust', 'rxjava', 'rxjs', 's3-lambda', 'salesforce', 'sap', 'sap-grc', 'sap-hcm', 'scala', 'scikit-learn', 'selenium', 'sequel', 'serverless', 'servicenow', 'servicenow-reporting', 'shopify', 'siemens-teamcenter', 'soap-ui', 'solidworks', 'sonarqube', 'spark', 'splunk', 'spock', 'spring', 'spring-boot', 'spring-security', 'sqlite', 'sso-buzzfeed', 'suse', 'swift', 'swiftui', 'tableau', 'tableau-server', 'talend', 'tensorflow', 'terraform', 'testlink', 'tines', 'typescript', 'ubuntu', 'uikit', 'unity-3d', 'varnish', 'varnish-cache', 'veeam', 'vertex', 'visual-basic', 'visual-studio', 'visual-studio-code', 'vmware-vsphere', 'vue-js', 'web-components', 'webpack', 'websphere', 'whatsapp', 'wildfly', 'window-server', 'windows', 'windows-10', 'wireshark', 'xamarin', 'xcode', 'xml-format', 'yaml', 'yocto-project', 'zabbix', 'zephyr', 'zeplin']}",,[],[],[]
+6,471740947,Junior Data Scientist,https://gruppomol.intervieweb.it/annunci.php?l=junior-data-scientist-70233&lang=it&d=indeed,2025-04-09,False,Mavriq,https://gruppomol.intervieweb.it/annunci.php?l=junior-data-scientist-70233&lang=it&d=indeed,https://indeed.com/viewjob?jk=840f81df6b7456be,Milano,"Milano, Lombardia",20100 Milano,LOM,45.4612,9.1878,20100,True,False,,,,,,,,[],Italy,[],[],junior,['IT'],IT,2025-04-09T12:39:46.481000+00:00,mavriq.com,[],False,,[],True,"Mavriq, parte di Moltiply Group, è la tech company a cui appartengono alcuni tra i più importanti brand di comparazione ed intermediazione online in Italia (MutuiOnline.it, Segugio.it, SOStariffe.it, Trovaprezzi.it, Switcho e molti altri) e all’estero (LeLynx.fr, Rastreator, Pricewise, Verivox). I servizi offerti dai brand di Mavriq aiutano con trasparenza i consumatori a trovare ciò di cui hanno bisogno, al miglior prezzo. Siamo un team di circa 1\.000 “smart disruptors” distribuiti in Europa, America Latina ed Asia.
+
+  
+
+Il successo di Mavriq è legato al successo dei nostri team. Per questo, siamo oggi alla ricerca di un nuovo o una nuova team member con cui continuare a scrivere la nostra storia nel mondo della comparazione ed intermediazione internazionale.
+
+  
+
+  
+
+**Posizione:**
+--------------
+
+**Il ruolo**
+
+
+Per supportare la crescita dei progetti di Machine Learning in Mavriq per i brand Segugio.it, PrestitiOnline e altri, siamo alla ricerca di un\-a Junior Data Scientist che, riportando alla risorsa Senior del team, supporterà lo sviluppo di algoritmi avanzati per l’ottimizzazione dei nostri processi di acquisizione e di gestione dei clienti.
+
+ **Location**
+
+
+La tua sede di lavoro sarà in Via Desenzano 2 a Milano (MM1 Gambara). Lavoriamo in modalità **ibrida**: 2 giorni in ufficio e 3 giorni in smart working, con flessibilità in ingresso e in uscita. I due giorni in ufficio sono un momento per i nostri team di aggregazione e scambio, e ci permettono di continuare ad alimentare la nostra Cultura Mavriq.
+
+ **Come lavoriamo e cosa farai**
+
+
+Il team di Data Scientist, inserito all'interno della Funzione Marketing, si occupa di ideare, implementare e mantenere diversi modelli machine learning a supporto del business.
+
+  
+
+Nello specifico, ti occuperai di:
+
+* Realizzare progetti complessi di data analisi, con la responsabilità sull’intero ciclo di vita di un “data product”, dall’estrazione e trasformazione del dato fino alla realizzazione e alla messa in produzione dei modelli di machine learning.
+* Comunicare intuizioni e risultati ricavati dai dati in modo efficace e facilitandone la comprensione ai non addetti ai lavori.
+* Interagire con analisti ed esperti di business per identificare opportunità innovative.
+* Collaborare nella creazione di processi data\-driven, definendo best\-practice per la raccolta e l’uso dei dati.
+
+**Requisiti:**
+--------------
+
+**Di cosa avrai bisogno per il ruolo**
+
+* Breve esperienza pregressa in ambito Data Science, specialmente in Machine Learning. Oppure una forte motivazione a costruire il tuo percorso in Data Science.
+* Buona conoscenza pratica di statistica e machine learning,
+* Competenza e abilità nell’uso Python e delle sue librerie per Data Science e Machine Learning (Numpy, Pandas, Scikit\-learn, ...)
+* Competenza nell’uso di database relazionali (MySQL, SqlServer, ...),
+* Familiarità con l’ambiente Linux,
+* Approccio data\-driven alla risoluzione dei problemi,
+* Capacità di lavorare autonomamente e per obiettivi, bilanciando in maniera efficiente richieste e scadenze,
+* Capacità di interagire e comunicare efficacemente con interlocutori con profili diversi (manager, business analyst, sviluppatori, ...),
+* Comprensione dei principali concetti MLOps come deployment e monitoraggio dei modelli,
+* Buona padronanza della lingua inglese (B2\-C1\) e italiana (C1\).
+
+ **Cosa troverai da noi**
+
+* Ambiente di lavoro giovane, dinamico e informale, flessibilità di orario, smartworking, formazione continua e partecipazione a eventi e conferenze.
+* Sede spaziosa, open space, con diverse sale break e dotata di ciò di cui avrai bisogno per lavorare.
+* Pacchetto di benefit, come assicurazione sanitaria, buoni pasto e welfare.
+
+  
+
+Non vediamo l’ora di conoscerti!
+
+**Altre informazioni:**
+-----------------------
+
+Puoi scoprire di più su di noi a questo video. Leggere le nostre Recensioni su Indeed o Glassdoor. Familiarizzare con i nostri principi guida qui.
+
+ *La ricerca è rivolta ad ambo i sessi (ai sensi delle Leggi n. 903/77 e n. 125/91\).*
+
+*Si richiede esplicito consenso al trattamento dei dati personali (ex D.Lgs. 196/03 e GDPR \- Reg.UE. 2016/679\).*
+
+","{'name': 'Mavriq', 'domain': 'mavriq.com', 'industry': 'Technology, Information and Internet', 'country': 'Italy', 'country_code': 'IT', 'employee_count': 939, 'logo': 'https://media.licdn.com/dms/image/v2/D4D0BAQECIhR_rPV4dA/company-logo_400_400/company-logo_400_400/0/1728580954591/mavriqtech_logo?e=1741219200&v=beta&t=8PQyEj1OSG0B5fTxyDwC2NQEUhEkXfVqdd7VDVmG5ro', 'num_jobs': 52, 'num_technologies': 81, 'url': 'https://mavriq.com', 'industry_id': 6, 'linkedin_url': 'https://www.linkedin.com/company/mavriqtech/', 'num_jobs_last_30_days': 6, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '102241269', 'url_source': None, 'is_recruiting_agency': False, 'id': '2jcUxyQClEhQc3ZkOM4k/A==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': '501-1000', 'long_description': 'We are a global leader in price comparison. Our teams and our proprietary technology connect customers to providers and help them save money.\nWe are over 900 people working from 15 different locations and we manage 20 brands in 3 continents. \n\nMavriq is part of Moltiply Group, a company listed on the Milan Stock Exchange.', 'seo_description': None, 'city': 'Milan', 'postal_code': '20146', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['mavriq.com'], 'technology_slugs': ['active-directory', 'adem', 'adobe-xd', 'affine', 'ahrefs', 'airflow', 'amazon-web-services', 'apache-airflow', 'apache-hadoop', 'asp-net', 'attribution', 'aws-glue', 'azure-active-directory', 'centro', 'confluent', 'contenido', 'd3', 'docker', 'dot-net', 'duda', 'elearning-lms', 'facebook-ads', 'figma', 'google-ads', 'google-analytics', 'google-bigquery', 'google-cloud-platform', 'google-search-console', 'google-tag-manager', 'hadoop', 'hotjar', 'informatica', 'java', 'javascript', 'jquery', 'json', 'looker', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-active-directory', 'microsoft-bing', 'microsoft-excel', 'microsoft-exchange-online', 'microsoft-onedrive', 'microsoft-powerpoint', 'microsoft-sharepoint', 'microsoft-teams', 'microsoft-typescript', 'modo', 'mysql', 'nodejs', 'numpy', 'nunit', 'onedrive', 'pandas', 'perplexity', 'php', 'postgresql', 'power-bi', 'powershell', 'processing-js', 'profilo', 'python', 'pytorch', 'react', 'scala', 'scikit-learn', 'screaming-frog', 'semrush', 'seo-spider', 'sistrix', 'sketch', 'spark', 'spring', 'spring-boot', 'statistica', 'tableau', 'tensorflow', 'typescript', 'yougov'], 'technology_names': ['active-directory', 'adem', 'adobe-xd', 'affine', 'ahrefs', 'airflow', 'amazon-web-services', 'apache-airflow', 'apache-hadoop', 'asp-net', 'attribution', 'aws-glue', 'azure-active-directory', 'centro', 'confluent', 'contenido', 'd3', 'docker', 'dot-net', 'duda', 'elearning-lms', 'facebook-ads', 'figma', 'google-ads', 'google-analytics', 'google-bigquery', 'google-cloud-platform', 'google-search-console', 'google-tag-manager', 'hadoop', 'hotjar', 'informatica', 'java', 'javascript', 'jquery', 'json', 'looker', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-active-directory', 'microsoft-bing', 'microsoft-excel', 'microsoft-exchange-online', 'microsoft-onedrive', 'microsoft-powerpoint', 'microsoft-sharepoint', 'microsoft-teams', 'microsoft-typescript', 'modo', 'mysql', 'nodejs', 'numpy', 'nunit', 'onedrive', 'pandas', 'perplexity', 'php', 'postgresql', 'power-bi', 'powershell', 'processing-js', 'profilo', 'python', 'pytorch', 'react', 'scala', 'scikit-learn', 'screaming-frog', 'semrush', 'seo-spider', 'sistrix', 'sketch', 'spark', 'spring', 'spring-boot', 'statistica', 'tableau', 'tensorflow', 'typescript', 'yougov']}",,[],[],[]
+7,447892274,Senior Frontend Engineer (AI-Powered Development) - Fully Remote,https://apply.workable.com/j/A273BCE1AE,2025-04-01,False,Passion.io,https://apply.workable.com/j/A273BCE1AE,https://indeed.com/viewjob?jk=3b25004f54b032ec,Benevento,"Benevento, Campania","Benevento, Campania",CAM,41.12952,14.78614,,True,False,,,,,,,,[],Italy,[],[],senior,['IT'],IT,2025-04-01T14:59:26.356000+00:00,passion.io,[],False,,['Full-time'],True,"### **\</\> Crafting the Future of AI\-Driven Frontend Experiences**
+
+### **Do you…..**
+
+
+dream in code
+
+**{JS}** speak fluent JavaScript
+
+
+thrive on building innovative AI\-powered experiences?
+
+
+At Passion.io, we empower creators by helping them launch impactful mobile apps. We’re on a mission to build **game\-changing** experiences, and need a **Senior Frontend Engineer** with a sharp eye for design and deep expertise in AI\-powered feature development.  
+
+  
+
+If you thrive on building exceptional user experiences and pushing the boundaries of AI in frontend development, this is your moment!
+
+### **What You Can Expect ️**
+
+
+Imagine being at the forefront of AI\-powered development, where your expertise turns complex challenges into groundbreaking innovations.
+
+ **Here’s how you’ll make your mark**
+
+* **AI\-Driven Development**: Lead the implementation of AI\-powered features, leveraging OpenAI, Gemini, or similar APIs.
+* **Frontend Excellence**: Design and develop stunning web and mobile experiences using React, React Native, and GraphQL.
+* **Microservices \& Infrastructure**: Contribute to scalable backend services with Node.js and optimize AWS infrastructure.
+* **Code Quality \& Performance**: Improve our codebase, reduce tight coupling, and ensure a seamless developer experience.
+* **Cross\-Platform Magic:** Build solutions that shine on Web, iOS, and Android.
+* **Mentorship \& Innovation**: Coach junior engineers, advocate for best practices, and bring fresh AI\-powered ideas to the team.
+
+**Requirements**
+
+### **What We’re Looking For**
+
+Are you the frontend innovator we’ve been searching for?
+
+
+✅ **Must\-Have Experience:**
+
+* 5\+ years in JavaScript development (React \& React Native expertise required).
+* 1\+ years of experience with AI\-powered products
+* GraphQL and Node.js proficiency
+* Frontend \& Mobile Development with a strong focus on design
+
+Product Mindset: You think beyond code—customer satisfaction and business impact matter  
+* 
+
+**Bonus Points (if you bring these, we’re really excited!)**
+
+* Experience developing AI\-powered models beyond API integrations.
+* Strong microservices backend development skills.
+* AWS infrastructure expertise.
+* Passion for crafting intuitive, high\-performing UI/UX.
+
+**Benefits**
+
+### **Be Part of Something Bigger….**
+
+Passion.io is on a mission to make the world more confident and passionate by enabling creators to build life\-changing mobile apps without writing a single line of code. Our platform empowers thought leaders, coaches, and creators to bring their unique visions to life, reaching audiences globally and inspiring growth. With thousands of creators and millions of users, we’re shaping the future of the creator economy \- and having a blast doing it!!
+
+  
+
+**Perks of Being a Passioneer:**
+
+* **Freedom to Work from Anywhere:** We’re a fully remote team and will always be.
+* **Global Gatherings:** We bring the team together in amazing locations (recently: Croatia, Portugal, Greece).
+* **Entrepreneurial Culture:** Your success is measured by results, not hours.
+* **Career Growth:** Enjoy regular coaching sessions, internal and external training, and opportunities to attend conferences.
+* **Openness \& Creativity:** Share your ideas in a results\-driven, supportive environment.
+* **Tech Gear Your Way:** Annual equipment budget.
+* **Co\-working Flexibility:** Prefer working from a co\-working space? We’ll help cover the costs.
+* **Generous Time Off:** Enjoy 24 days of paid vacation plus 10 days of “Celebration Leave” for holidays that matter to you.
+* **Paid Parental Leave:** Because family time matters.
+
+### **What your hiring journey looks like**
+
+
+We’re excited to share the path you'll take as you explore this opportunity with us. We respect your time and skills, so our process is streamlined and engaging \- Here’s what your adventure will look like:
+
+* **Initial Discovery:** A quick discovery call with Monique, our Sr. Talent Manager, to align expectations.
+* **Showcase Your Skills:** A live coding challenge where you'll demonstrate your expertise and problem\-solving skills in a practical setting.
+* **Deep Dive:** A technical discussion with our Principal Engineer, Darko, where you'll explore AI implementations and architectural decisions.
+* **Vision Alignment:** A final conversation with our Head of Engineering, Nuno, to ensure that your vision and our mission align perfectly.
+
+Ready to push the boundaries of AI\-powered frontend development? Let’s turn ideas into reality and shape the future together
+
+### **Hit APPLY to join Passion.io today!**
+
+","{'name': 'Passion.io', 'domain': 'passion.io', 'industry': 'Technology, Information and Internet', 'country': 'United States', 'country_code': 'US', 'employee_count': 110, 'logo': 'https://images.otta.com/search/width_400/Y29tcGFueS1sb2dvcy8xMzI1Ny1JTUdGdURzR21ZTTNWTWpHZUZZWm0yN2VXQ05LQnNQTU9sRV9IWFFIdTFZLnBuZw.png', 'num_jobs': 150, 'num_technologies': 115, 'url': 'https://passion.io', 'industry_id': 6, 'linkedin_url': 'https://www.linkedin.com/company/passion.io/', 'num_jobs_last_30_days': 10, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': '5a9ecf03a6da98d938bcee39', 'linkedin_id': '10616845', 'url_source': None, 'is_recruiting_agency': False, 'id': '9zue5ZonoE7kLy1viWjaww==', 'founded_year': 2016, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': 6150000, 'last_funding_round_date': '2021-10-01', 'last_funding_round_amount_readable': None, 'employee_count_range': '51-200', 'long_description': ""Are you sick of thinking about doing something but never actually taking action? Are you tired of hearing your friends talk about their awesome plans and ideas, but they never do anything? \n\nWell so are we! \n\nWe Are Passion - Passionate people, learning about the things we are most passionate about, and sharing those learnings on a global scale to get other people following their passions too! We are all about action. \n\nAt Passion.io, you learn from successful people! Whether it's through our online courses with your favorite social media influencers and celebrities, or via our Passion Masterclass coaches who train you to build your own business you are passionate about. \n\nYou learn directly from people that turned their passion into their profession and who have years of experience getting real results. And what's even better? We use our own specially developed technology to do it! \n\nPASSION.io’s mission is to give people the power to have more impact with their skills, and make the world more confident and passionate."", 'seo_description': '', 'city': 'Houston', 'postal_code': '77043', 'company_keywords': ['education', 'usa', 'find & follow your passion', 'learn from successful people', 'elearning', 'online marketing', 'partnerships', 'coaching', 'app development', 'elearning platform provider'], 'alexa_ranking': 182178, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': 'series_a', 'has_blurred_data': False, 'possible_domains': ['passion.io', 'pssn.io'], 'technology_slugs': ['adobe-illustrator', 'adobe-photoshop', 'amazon-web-services', 'amplitude', 'apache-maven', 'apollo', 'audienceto', 'bard-ai', 'canva', 'circleci', 'compose', 'curated', 'devise', 'duolingo', 'eva', 'figma', 'first-data', 'gemini', 'google-analytics', 'google-drive', 'google-meet', 'google-sheets', 'google-tag-manager', 'google-workspace', 'graphql', 'grunt', 'gulp', 'hubspot', 'hubspot-crm', 'intercom', 'ios', 'javascript', 'jira', 'kubernetes', 'levelup', 'mac-os', 'microsoft-forefront', 'microsoft-luis', 'microsoft-typescript', 'miro', 'mobx', 'mongodb', 'nimble', 'nimble-lms', 'nodejs', 'postgresql', 'provide-support', 'python', 'rails', 'react', 'react-native', 'reduxjs', 'responsively', 'ruby', 'salesforce', 'shopify', 'slack', 'streamline', 'stripe', 'svelte', 'terraform', 'thrive', 'time-matters', 'trello', 'typeform', 'typescript', 'webflow', 'webpack', 'whatsapp', 'workable', 'workspace', 'zapier', 'zendesk', 'zoom', 'zustand'], 'technology_names': ['adobe-illustrator', 'adobe-photoshop', 'amazon-web-services', 'amplitude', 'apache-maven', 'apollo', 'audienceto', 'bard-ai', 'canva', 'circleci', 'compose', 'curated', 'devise', 'duolingo', 'eva', 'figma', 'first-data', 'gemini', 'google-analytics', 'google-drive', 'google-meet', 'google-sheets', 'google-tag-manager', 'google-workspace', 'graphql', 'grunt', 'gulp', 'hubspot', 'hubspot-crm', 'intercom', 'ios', 'javascript', 'jira', 'kubernetes', 'levelup', 'mac-os', 'microsoft-forefront', 'microsoft-luis', 'microsoft-typescript', 'miro', 'mobx', 'mongodb', 'nimble', 'nimble-lms', 'nodejs', 'postgresql', 'provide-support', 'python', 'rails', 'react', 'react-native', 'reduxjs', 'responsively', 'ruby', 'salesforce', 'shopify', 'slack', 'streamline', 'stripe', 'svelte', 'terraform', 'thrive', 'time-matters', 'trello', 'typeform', 'typescript', 'webflow', 'webpack', 'whatsapp', 'workable', 'workspace', 'zapier', 'zendesk', 'zoom', 'zustand']}",,[],[],[]
+8,445367004,Gen AI engineer,https://joblink.allibo.com/ats4/job-offer.aspx?DM=2055&ID=88555&LN=IT&SG=3&FT=10&MD=1,2025-03-31,False,Softwave Soluzioni e Tecnologie Srl,https://joblink.allibo.com/ats4/job-offer.aspx?DM=2055&ID=88555&LN=IT&SG=3&FT=10&MD=1,https://indeed.com/viewjob?jk=44f314864acc1c34,"Provincia di Milano, Lombardia","Provincia di Milano, Lombardia","Provincia di Milano, Lombardia",LOM,45.5,9.5,,True,False,,,,,,,,[],Italy,[],[],mid_level,['IT'],IT,2025-03-31T18:40:19.443000+00:00,softwave-soltec.it,[],False,,[],True,"Softwave Soluzioni \& Tecnologie Srl, con le sue sedi di Roma e Milano, opera da oltre 20 anni sul territorio nazionale. La consulenza in ambito IT è il nostro core business. Lavoriamo con primarie realtà nazionali ed internazionali che consentono ai nostri collaboratori di maturare significative esperienze in contesti strutturati, dinamici ed incentrati all’innovazione.
+  
+  
+
+**Gen AI engineer:**  
+
+Se sei alla ricerca di un ambiente dove condividere e valorizzare le tue idee ed esprimere al meglio la tua passione per la data science questa è la nostra proposta!
+  
+  
+
+Per importanti progetti di Data Science presso primarie realtà del panorama IT con sede nella città di Milano, ma con la possibilità di svolgere l’attività anche in smart working.
+  
+  
+
+Farai parte di un contesto dinamico e strutturato che predilige il lavoro in team ed avrai modo di interfacciarti con team internazionali.
+  
+  
+
+**Skills:**  
+
+Forte competenza in Python
+  
+Esperienza pratica con PyTorch, TensorFlow o framework simili per costruire e addestrare modelli generativi
+  
+**Generative Models:** Esperienza con modelli come GPT\-4, Llama, includendo fine\-tuning e customizzazioni
+  
+**Large Language Models:** Esperienza nel fine\-tuning, ottimizzazione e distribuzione di LLM
+  
+**Sistemi RAG:** Esperienza nella costruzione di sistemi di generazione aumentata da recupero per migliorare le capacità di IA generativa
+  
+Competenza nella distribuzione e gestione di modelli di IA generativa su piattaforme cloud come AWS, Azure o Google Cloud
+  
+  
+
+**Offriamo:**  
+
+Contratto a tempo indeterminato;
+  
+Incentivi e bonus in base alla seniority e al raggiungimento di obiettivi professionali;
+  
+Assicurazione sanitaria integrativa ed infortunistica
+  
+Sviluppo tecnico e professionale","{'name': 'Softwave Soluzioni e Tecnologie Srl', 'domain': 'softwave-soltec.it', 'industry': 'IT Services and IT Consulting', 'country': None, 'country_code': None, 'employee_count': None, 'logo': 'https://logo.clearbit.com/softwave-soltec.it', 'num_jobs': 254, 'num_technologies': 145, 'url': 'https://softwave-soltec.it', 'industry_id': 96, 'linkedin_url': None, 'num_jobs_last_30_days': 27, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': None, 'url_source': None, 'is_recruiting_agency': False, 'id': 'wlaaqpiYz2rcbBZ6f7FR1tU69plGpfUkG9Bh4fohGjlxBkQVaZXi5ytiYiQsMI2I', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': None, 'long_description': None, 'seo_description': None, 'city': None, 'postal_code': None, 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['softwave-soltec.it'], 'technology_slugs': ['active-directory', 'alamofire', 'amazon-api-gateway', 'amazon-athena', 'amazon-aurora', 'amazon-cloudwatch', 'amazon-connect', 'amazon-dynamodb', 'amazon-ec2', 'amazon-ecs', 'amazon-efs', 'amazon-eks', 'amazon-iot', 'amazon-rds-for-mysql', 'amazon-redshift', 'amazon-route-53', 'amazon-s3', 'amazon-sagemaker', 'amazon-sns', 'amazon-sqs', 'amazon-vpc', 'amazon-web-services', 'android-studio', 'angular-material', 'ansible', 'apache-maven', 'appium', 'asp-net', 'aws-backup', 'aws-cloudformation', 'aws-codepipeline', 'aws-config', 'aws-direct-connect', 'aws-glue', 'aws-iam', 'aws-iot', 'aws-lambda', 'aws-shield', 'aws-waf', 'azure-devops', 'bamboo', 'bitbucket', 'blazor', 'bootstrap', 'bundler', 'c-sharp', 'cocoapods', 'compose', 'confluence', 'coredata', 'cucumber', 'cypress', 'dameware', 'dart', 'docker', 'dot-net', 'dynatrace', 'elearning-lms', 'entity-framework', 'entity-framework-core', 'firebase', 'flutter', 'github', 'github-actions', 'gitlab', 'google-cloud-platform', 'google-firebase', 'google-vpc', 'graphql', 'helm', 'hibernate', 'informatica', 'ios', 'java', 'java-8', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'junit', 'kafka', 'kotlin', 'kubernetes', 'macro', 'meta-llama', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-entity-framework', 'microsoft-graph', 'microsoft-powerpoint', 'microsoft-typescript', 'modo', 'mqtt', 'mysql', 'nagios', 'neo4j', 'next-js', 'nodejs', 'oracle', 'paloaltonetworks-panorama', 'postgresql', 'postman', 'power-bi', 'powershell', 'profilo', 'python', 'pytorch', 'qlik', 'qlik-sense', 'quickbuild', 'rabbitmq', 'rancher', 'react', 'react-native', 'realm', 'redisgraph', 'reduxjs', 'retrofit', 'robot-frame-work', 'rollup', 'rxjava', 'rxjs', 'sas', 'sas-enterprise', 'sas-enterprise-guide', 'sas-marketing-automation', 'sas-visual-analytics', 'sass', 'scala', 'selenium', 'serverless', 'soap-ui', 'spark', 'spring', 'spring-boot', 'spring-data', 'spring-security', 'storybook', 'swift', 'swiftui', 'teamviewer', 'tensorflow', 'terraform', 'toolkit', 'typescript', 'uikit', 'unittest', 'vbscript', 'virtualbox', 'vite', 'vue-js', 'wcf', 'webpack', 'windows', 'xcode', 'zabbix', 'zephyr', 'zustand'], 'technology_names': ['active-directory', 'alamofire', 'amazon-api-gateway', 'amazon-athena', 'amazon-aurora', 'amazon-cloudwatch', 'amazon-connect', 'amazon-dynamodb', 'amazon-ec2', 'amazon-ecs', 'amazon-efs', 'amazon-eks', 'amazon-iot', 'amazon-rds-for-mysql', 'amazon-redshift', 'amazon-route-53', 'amazon-s3', 'amazon-sagemaker', 'amazon-sns', 'amazon-sqs', 'amazon-vpc', 'amazon-web-services', 'android-studio', 'angular-material', 'ansible', 'apache-maven', 'appium', 'asp-net', 'aws-backup', 'aws-cloudformation', 'aws-codepipeline', 'aws-config', 'aws-direct-connect', 'aws-glue', 'aws-iam', 'aws-iot', 'aws-lambda', 'aws-shield', 'aws-waf', 'azure-devops', 'bamboo', 'bitbucket', 'blazor', 'bootstrap', 'bundler', 'c-sharp', 'cocoapods', 'compose', 'confluence', 'coredata', 'cucumber', 'cypress', 'dameware', 'dart', 'docker', 'dot-net', 'dynatrace', 'elearning-lms', 'entity-framework', 'entity-framework-core', 'firebase', 'flutter', 'github', 'github-actions', 'gitlab', 'google-cloud-platform', 'google-firebase', 'google-vpc', 'graphql', 'helm', 'hibernate', 'informatica', 'ios', 'java', 'java-8', 'javascript', 'jenkins', 'jest', 'jetpack', 'jira', 'junit', 'kafka', 'kotlin', 'kubernetes', 'macro', 'meta-llama', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-azure-functions', 'microsoft-entity-framework', 'microsoft-graph', 'microsoft-powerpoint', 'microsoft-typescript', 'modo', 'mqtt', 'mysql', 'nagios', 'neo4j', 'next-js', 'nodejs', 'oracle', 'paloaltonetworks-panorama', 'postgresql', 'postman', 'power-bi', 'powershell', 'profilo', 'python', 'pytorch', 'qlik', 'qlik-sense', 'quickbuild', 'rabbitmq', 'rancher', 'react', 'react-native', 'realm', 'redisgraph', 'reduxjs', 'retrofit', 'robot-frame-work', 'rollup', 'rxjava', 'rxjs', 'sas', 'sas-enterprise', 'sas-enterprise-guide', 'sas-marketing-automation', 'sas-visual-analytics', 'sass', 'scala', 'selenium', 'serverless', 'soap-ui', 'spark', 'spring', 'spring-boot', 'spring-data', 'spring-security', 'storybook', 'swift', 'swiftui', 'teamviewer', 'tensorflow', 'terraform', 'toolkit', 'typescript', 'uikit', 'unittest', 'vbscript', 'virtualbox', 'vite', 'vue-js', 'wcf', 'webpack', 'windows', 'xcode', 'zabbix', 'zephyr', 'zustand']}",,[],[],[]
+9,436678979,Senior Data Scientist (Full remote) - IT,https://www.linkedin.com/jobs/view/4193498573/,2025-03-28,False,ALTEN Italia,,https://www.linkedin.com/jobs/view/4193498573/,Italy,Italy,Italy,Italy,,,,True,False,,,,,,,,[],Italy,[],[],senior,['IT'],IT,2025-03-28T17:32:05.603000+00:00,alten.it,"[{'first_name': 'Carolina Zanol', 'full_name': 'Carolina Zanol', 'linkedin_url': 'https://www.linkedin.com/in/carolinazanol/', 'role': 'Psicologa specializzata in Risorse Umane | Talent Acquisition Partner - Fashion & Retail', 'image_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694343557187?e=1748476800&v=beta&t=ZOxwYZbBdkwsLfckvOofJ71HpJZeSfAEknuiyq1Quzw', 'thumbnail_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694343557187?e=1748476800&v=beta&t=stp5kniqczpWcNvtvgJiTziT9qsvrULvQ3ix0mDMQrs'}, {'first_name': 'Carolina Zanol', 'full_name': 'Carolina Zanol', 'linkedin_url': 'https://www.linkedin.com/in/carolinazanol/', 'role': 'Psicologa specializzata in Risorse Umane | Talent Acquisition Partner - Fashion & Retail', 'image_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694343557187?e=1748476800&v=beta&t=ZOxwYZbBdkwsLfckvOofJ71HpJZeSfAEknuiyq1Quzw', 'thumbnail_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694343557187?e=1748476800&v=beta&t=stp5kniqczpWcNvtvgJiTziT9qsvrULvQ3ix0mDMQrs'}, {'first_name': 'Carolina Zanol', 'full_name': 'Carolina Zanol', 'linkedin_url': 'https://www.linkedin.com/in/carolinazanol/', 'role': 'Psicologa specializzata in Risorse Umane | Talent Acquisition Partner - Fashion & Retail', 'image_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694343557187?e=1748476800&v=beta&t=ZOxwYZbBdkwsLfckvOofJ71HpJZeSfAEknuiyq1Quzw', 'thumbnail_url': 'https://media.licdn.com/dms/image/v2/D4D03AQHfZ4sIsBAPiA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694343557187?e=1748476800&v=beta&t=stp5kniqczpWcNvtvgJiTziT9qsvrULvQ3ix0mDMQrs'}]",False,,['Full-time'],True,"Ruolo: Senior Data Scientist
+
+ 
+
+Luogo: Full remote dall'Italia.
+
+ALTEN supporta le strategie di sviluppo dei propri clienti nelle aree dell’innovazione, della R&D e dei sistemi informativi tecnologici.
+
+Nato più di 30 anni fa e presente in 30 Paesi, il Gruppo ALTEN si è affermato come leader mondiale nell’ingegneria e nei Servizi IT e leader Europeo per la consulenza nell'industria Life Sciences.
+
+Lavoriamo con attori chiave nei settori: Aeronautico &Spaziale, della Difesa & Navale, della Sicurezza, Automobilistico, Ferroviario, dell’Energia, del Life Sciences, Finanziario, del Retail e dei Servizi.
+
+Con un fatturato di oltre 4.069 miliardi di euro, abbiamo attualmente più di 57.400 collaboratori in tutto il mondo. In Italia siamo presenti in 12 città lungo tutto il territorio nazionale: Torino, Milano, Gallarate, Brescia, Genova, Modena, Maranello, Bologna, Firenze, Roma, Napoli e Bari.
+
+Di cosa ti occuperai:
+
+ 
+
+* Creazione e ottimizzazione di modelli statistici e algoritmi di machine learning per risolvere problemi complessi e supportare decisioni aziendali;
+* Gestione di grandi volumi di dati, pulizia, trasformazione e analisi per estrarre insight utili a livello strategico;
+* Utilizzo di approcci avanzati come il deep learning, NLP (Natural Language Processing) e reinforcement learning per risolvere casi d’uso complessi;
+* Lavorare a stretto contatto con team di sviluppo, ingegneria e business per implementare soluzioni scalabili e ad alte prestazioni;
+* Fornire orientamento ai colleghi junior e contribuire alla crescita delle competenze tecniche all’interno del team di data science.
+ 
+
+Requisiti:
+
+ 
+
+* Esperienza di almeno 4 anni in sviluppo di soluzioni AI e modelli di machine learning, in ambito aziendale o di ricerca;
+* Comprovato utilizzo di almeno uno tra TensorFlow, PyTorch, LangChain, llamaindex, Ollama;
+* Conoscenza di librerie Python per la Data Science (numpy, pandas, scikit-learn) e per la Data Visualization (matplotlib, plotlib, seaborn);
+* Conoscenza di Natural Language Processing, Information Retrieval, AI Generativa (incluso prompt engineering), e Large Language Model;
+* Conoscenza di Docker e Kubernetes;
+* Gradita la conoscenza di Front-end dimostrativi (Gradio, Streamlit)
+* Gradita esperienza nell’utilizzo e integrazione di servizi cloud (AWS, Google Cloud, Azure) e/o di modelli AI di terze parti.
+
+Perché scegliere ALTEN?
+
+Technological challenges
+
+Crediamo che la tecnologia abbia un grande potenziale per migliorare il nostro futuro, per questo ricerchiamo talenti che siano motivati a costruire oggi il mondo di domani. Con il nostro portfolio clienti e i diversi progetti di R&D attivi, in ALTEN avrai modo di lavorare su progetti all'avanguardia. La nostra Technical Direction ti accompagnerà e indirizzerà durante il tuo percorso. Avrai la possibilità di metterti alla prova in contesti progettuali diversi e di confrontarti con esperti del settore per ampliare sempre più le tue conoscenze. Potrai unire le tue passioni e metterti in gioco professionalmente. Accetti la sfida?
+
+Inspiring Togetherness
+
+Ci impegniamo a favorire un ambiente di lavoro sereno e collaborativo organizzando attività di team building, iniziative di aggregazione, eventi sportivi, per conoscerci meglio e condividere momenti insieme. Il successo di un gruppo si fonda sulla cooperazione e condivisione reciproca del sapere e degli interessi.
+
+Fulfilling Opportunities
+
+In ALTEN troverai corsi formativi all’avanguardia per accrescere le tue competenze sia tecnologiche, sia linguistiche! Tramite ALTEN Academy potrai ottenere certificazioni con alcuni dei più importanti schemi internazionali come IREB®, ISTQB® e altri. Attraverso Aula Streaming, invece, avrai accesso a corsi di formazione più trasversali relativi a soft skills e potrai scegliere tra 12 corsi di lingua straniera.
+
+Sustainable commitment
+
+Crediamo che la tecnologia sia a supporto dello sviluppo sociale e della tutela ambientale. Oltre a collaborare a progetti che mirano alla sostenibilità, ci impegniamo a sostenere le cause che più abbiamo a cuore, avendo collaborato e collaborando, tra gli altri, con AISM, AIRC, LILT, Save the Children, Treedom, This Unique. Valorizziamo l'unicità e ci impegniamo a garantire che tutte le nostre persone abbiano pari opportunità all'interno della nostra azienda, fornendo loro gli strumenti per esprimere al massimo il proprio potenziale. Il nostro approccio alla diversità e all'inclusione si fonda sui principi di etica e integrità e rappresenta il fattore determinante per lo sviluppo di orizzonti di crescita personale e aziendale più ampi. Promuoviamo l'inserimento e l'integrazione lavorativa delle persone appartenenti alle categorie protette - in base a quanto disciplinato dalla legge 68/99.
+
+I prossimi step
+
+Una volta ricevuto il tuo cv, ci prenderemo il tempo necessario per valutarlo attentamente.
+
+Se sarà in linea con questa o con altre posizioni aperte all’interno del Gruppo, il nostro team Talent Acquisition ti contatterà telefonicamente.
+
+L’iter di selezione proseguirà con un colloquio conoscitivo con l'area Business, un successivo colloquio più approfondito, durante il quale potrebbe essere richiesto un test pratico, ed infine un colloquio tecnico.
+
+L’ordine e il numero delle interviste potrebbero variare a seconda delle esigenze di selezione.
+
+In alternativa, saremo felici di conservare il tuo CV nel nostro gestionale per poterlo rivalutare per opportunità future. Operando in 12 diverse città e altrettanti settori, potrebbero contattarti più Talent Acquisition Partner e/o più Business Manager, se riterranno che il tuo profilo sia in linea con i progetti e le necessità che stanno ricercando in quel momento.
+
+Se dovessi identificare ulteriori offerte di tuo interesse e in linea con il tuo profilo, aspettiamo la tua candidatura per poterla valutare nuovamente.
+
+ALTEN opera nel rispetto dei principi di diversità, equità ed inclusione, che alimentano i nostri valori. ALTEN ha l’obiettivo di abbattere ogni barriera e pregiudizio, garantendo un ambiente di lavoro accessibile ed accogliente, valutando candidature indipendentemente da genere, etnia, disabilità (artt. 1 e 18, legge 68/99), età, orientamento sessuale, religione, stato civile, convinzioni personali e politiche, appartenenza ad organizzazioni sindacali, responsabilità familiari e back-ground socio-economico.","{'name': 'ALTEN Italia', 'domain': 'alten.it', 'industry': 'IT Services and IT Consulting', 'country': 'Italy', 'country_code': 'IT', 'employee_count': 0, 'logo': 'https://media.licdn.com/dms/image/v2/C4D0BAQHwn8RvH4cLjQ/company-logo_400_400/company-logo_400_400/0/1673265308797/altenitalia_logo?e=1744848000&v=beta&t=iyqfBeiSxdwTSfTvrufwV_QchItlT6kJKLVwbLJzYGc', 'num_jobs': 305, 'num_technologies': 94, 'url': 'https://alten.it', 'industry_id': 96, 'linkedin_url': 'https://www.linkedin.com/company/altenitalia/', 'num_jobs_last_30_days': 24, 'num_jobs_found': None, 'yc_batch': None, 'apollo_id': None, 'linkedin_id': '1089176', 'url_source': None, 'is_recruiting_agency': False, 'id': 'qcbvWXS5p4elT0EHjKHqZg==', 'founded_year': None, 'annual_revenue_usd': None, 'annual_revenue_usd_readable': None, 'total_funding_usd': None, 'last_funding_round_date': None, 'last_funding_round_amount_readable': None, 'employee_count_range': None, 'long_description': 'Il Gruppo ALTEN, leader europeo nella consulenza per le tecnologie avanzate in campo ingegneristico e ICT, è quotato alla Borsa di Parigi e vanta più di 57.000 collaboratori in più di 30 Paesi nel mondo. \n\nIn Italia ALTEN è presente su tutto il territorio nazionale con più di 4.500 collaboratori e uffici collocati in diverse città italiane, tra cui Milano, Gallarate, Brescia, Torino, Genova, Bologna, Modena, Maranello, Firenze, Roma, Napoli e Bari. \n\nALTEN si propone al mercato con servizi legati al mondo dell’ingegneria, dell’information technology, delle telecomunicazioni e del life sciences, con numerosi centri di eccellenza tra cui: digital, business intelligence, testing, formazione (ALTEN Academy), ITSM, IoT, hw, sw embedded, quality e CSV. \n\nLa forza di ALTEN si fonda sulla competenza e professionalità dei profili tecnici e manageriali, che vengono selezionati e formati con percorsi strutturati e replicati anche all’interno dell’ALTEN Academy, che eroga corsi di formazione e certificazione anche verso l’esterno.', 'seo_description': None, 'city': 'Milano', 'postal_code': '20134', 'company_keywords': [], 'alexa_ranking': None, 'publicly_traded_symbol': None, 'publicly_traded_exchange': None, 'investors': [], 'funding_stage': None, 'has_blurred_data': False, 'possible_domains': ['alten.it'], 'technology_slugs': ['active-directory', 'amazon-s3', 'amazon-web-services', 'anomali', 'appium', 'aula', 'avere', 'aws-iot', 'azure-devops', 'azure-test-plans', 'blockchain-com', 'cisco-ise', 'component', 'confluence', 'contentsquare', 'cplusplus', 'cypress', 'dall-e', 'data-miner', 'docker', 'elearning-lms', 'f5', 'fortiauthenticator', 'fortinet-security', 'fortisiem', 'google-analytics', 'google-cloud-platform', 'gradio', 'grafana', 'hyperledger', 'hyperledger-fabric', 'informatica', 'java', 'javascript', 'jboss', 'jira', 'junit', 'k6', 'keras', 'kubernetes', 'lilt', 'matplotlib', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-dynamics-365-business-central', 'microsoft-dynamics-nav', 'microsoft-excel', 'microsoft-windows-server', 'modo', 'modulo', 'navision', 'netezza', 'netezza-performance-server', 'nis', 'normative', 'notificare', 'numpy', 'opentext', 'oracle', 'oracle-database', 'pandas', 'postgresql', 'postman', 'power-bi', 'powershell', 'prevedere', 'processing-js', 'profilo', 'putty', 'pyspark', 'python', 'pytorch', 'qlik', 'red-hat', 'salesforce', 'salesforce-data-cloud', 'salesforce-marketing-cloud', 'sap', 'sap-hana', 'scikit-learn', 'selenium', 'snowflake', 'soap-ui', 'splunk', 'statistica', 'streamlit', 'swrve', 'tableau', 'tableau-desktop', 'tableau-server', 'temenos', 'tenable', 'tensorflow', 'tomcat', 'vanta', 'veeam', 'wildfly', 'window-server', 'windows'], 'technology_names': ['active-directory', 'amazon-s3', 'amazon-web-services', 'anomali', 'appium', 'aula', 'avere', 'aws-iot', 'azure-devops', 'azure-test-plans', 'blockchain-com', 'cisco-ise', 'component', 'confluence', 'contentsquare', 'cplusplus', 'cypress', 'dall-e', 'data-miner', 'docker', 'elearning-lms', 'f5', 'fortiauthenticator', 'fortinet-security', 'fortisiem', 'google-analytics', 'google-cloud-platform', 'gradio', 'grafana', 'hyperledger', 'hyperledger-fabric', 'informatica', 'java', 'javascript', 'jboss', 'jira', 'junit', 'k6', 'keras', 'kubernetes', 'lilt', 'matplotlib', 'microsoft-active-directory', 'microsoft-azure', 'microsoft-dynamics-365-business-central', 'microsoft-dynamics-nav', 'microsoft-excel', 'microsoft-windows-server', 'modo', 'modulo', 'navision', 'netezza', 'netezza-performance-server', 'nis', 'normative', 'notificare', 'numpy', 'opentext', 'oracle', 'oracle-database', 'pandas', 'postgresql', 'postman', 'power-bi', 'powershell', 'prevedere', 'processing-js', 'profilo', 'putty', 'pyspark', 'python', 'pytorch', 'qlik', 'red-hat', 'salesforce', 'salesforce-data-cloud', 'salesforce-marketing-cloud', 'sap', 'sap-hana', 'scikit-learn', 'selenium', 'snowflake', 'soap-ui', 'splunk', 'statistica', 'streamlit', 'swrve', 'tableau', 'tableau-desktop', 'tableau-server', 'temenos', 'tenable', 'tensorflow', 'tomcat', 'vanta', 'veeam', 'wildfly', 'window-server', 'windows']}",,[],[],[]
